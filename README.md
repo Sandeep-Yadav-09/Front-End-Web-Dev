@@ -7,7 +7,7 @@ Hi I made this project during the 7 Days Bootcamp, conducted by <b> DevTown
 The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
 learn a lot during these 7 days and it was an amazing experience learning with DevTown.
 <br><br>Here's the link for you to watch the sessions as well<br>
-<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbukqBeDiNUrjgZnM-_UUbs2_"> <img src="https://i.ibb.co/DLxkhNK/Whats-App-Image-2022-09-21-at-9-32-49-PM.jpg" alt="ML_Link" border="0"> </a>
+<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbukqBeDiNUrjgZnM-_UUbs2_"> <img src="https://i.ytimg.com/vi/PzI-1jXMaPE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBEmOZ7Yxmuj5OJp7pAL5FA8Cjrhw" alt="ML_Link" border="0"> </a>
 <br>
 <li>Front-End Web Devlopment
 <li>Javascript & React
