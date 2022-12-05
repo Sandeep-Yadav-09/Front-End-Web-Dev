@@ -1,4 +1,4 @@
-# Front-End-Wev
+# Front-End Web Development
 A mini Project based on the 7-Day Front-End Web Development Essentials Bootcamp organized by Devtown.
 
 # DEVTOWN/SHAPEAI Front-End Web Development ESSENTIALS | JavaScript and React BOOTCAMP
